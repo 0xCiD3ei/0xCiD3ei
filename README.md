@@ -1,9 +1,11 @@
 ### I'm Nguyen Duy Tien 👋
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=0xCiD3ei&show_icons=true&&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCiD3ei&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xCiD3ei&show_icons=true&&theme=transparent&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xCiD3ei&theme=transparent&layout=compact&langs_count=10" />
+</a>
 
 <!--
 **0xCiD3ei/0xCiD3ei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
