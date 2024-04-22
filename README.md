@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=0xCiD3ei&show_icons=true&theme=dark#gh-dark-mode-only&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCiD3ei&theme=dark#gh-dark-mode-only&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xCiD3ei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
